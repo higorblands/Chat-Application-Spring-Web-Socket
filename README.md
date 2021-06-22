@@ -23,3 +23,6 @@
 
     in file ChatApplicationSpringWebSocket
     run public static void main
+    Open your browser
+    localhost:8090
+    Enjoy !
