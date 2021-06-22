@@ -9,9 +9,9 @@
 * Front-end responsible
 
 ### Computer Browser 
-![Image of Application in PC]https://github.com/higorblands/Chat-Application-Spring-Web-Socket/blob/main/img/PC.png)
+![Image of Application in PC](https://github.com/higorblands/Chat-Application-Spring-Web-Socket/blob/main/img/PC.png)
 ### SmartPhone Browser 
-![Image of Application in Mobile]https://github.com/higorblands/Chat-Application-Spring-Web-Socket/blob/main/img/Mobile.png)
+![Image of Application in Mobile](https://github.com/higorblands/Chat-Application-Spring-Web-Socket/blob/main/img/Mobile.png)
 
 
 ### Install 
